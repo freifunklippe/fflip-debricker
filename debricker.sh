@@ -265,7 +265,7 @@ unzip -j Archer*.zip -d v3
 rm Archer*.zip
 echo "Hersteller-Firmware erfolgreich heruntergeladen und entpackt"
 cd v3
-wget "https://wizard.freifunk-lippe.de/images/stable/sysupgrade/gluon-fflip-1.1.3-20190502-tp-link-archer-c50-v3-sysupgrade.bin"
+wget "https://wizard.freifunk-lippe.de/images/stable/sysupgrade/gluon-fflip-1.2.0-20191206-tp-link-archer-c50-v3-sysupgrade.bin"
 echo "Freifunk-Firmware erfolgreich heruntergeladen"
 mkdir tftp
 echo "Verzeichnis tftp erfolgreich angelegt"
@@ -335,7 +335,7 @@ unzip -j Archer*.zip -d v4
 rm Archer*.zip
 echo "Hersteller-Firmware erfolgreich heruntergeladen und entpackt"
 cd v4
-wget "https://wizard.freifunk-lippe.de/images/stable/sysupgrade/gluon-fflip-1.1.3-20190502-tp-link-archer-c50-v4-sysupgrade.bin"
+wget "https://wizard.freifunk-lippe.de/images/stable/sysupgrade/gluon-fflip-1.2.0-20191206-tp-link-archer-c50-v4-sysupgrade.bin"
 echo "Freifunk-Firmware erfolgreich heruntergeladen"
 mkdir tftp
 echo "Verzeichnis tftp erfolgreich angelegt"
